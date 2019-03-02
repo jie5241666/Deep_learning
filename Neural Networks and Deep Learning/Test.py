@@ -1,3 +1,3 @@
 import numpy as np
-for i in range(1,9):
-    print(i)
+a = np.array([1,2,3,4,5,6,7])
+print(a[0:2])
