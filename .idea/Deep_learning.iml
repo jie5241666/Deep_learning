@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/week2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/week3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/week4/Building your Deep Neural Network - Step by Step" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/week4/Deep Neural Network - Application" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
